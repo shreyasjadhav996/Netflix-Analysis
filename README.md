@@ -31,7 +31,7 @@ iv) Data Visualization
 
 6) Country wise Map of Total Movies and TV shows by Country
 
-7) 8) Showing Wordcloud For Country, Directors,Category, Gerne, Rating
+7) Showing Wordcloud For Country, Directors,Category, Gerne, Rating
 
 ## METHODOLOGY:
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
