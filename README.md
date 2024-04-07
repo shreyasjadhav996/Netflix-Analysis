@@ -42,6 +42,26 @@ The goal of this project is to practice creating and interpreting different type
 
 ![Horizontal hist netflix](https://github.com/shreyasjadhav996/Netflix-Analysis/assets/88649937/3ffadedc-cf9a-49aa-9214-c7cbbdbb3e26)
 
+### Country wise Map of Total Movies and TV shows by Country & line Area Graph of Total Movies and TV shows by Year.
+
+![Map netflix](https://github.com/shreyasjadhav996/Netflix-Analysis/assets/88649937/bc15c9ea-cfe6-43c9-a458-afc79e90624d)
+
+![Screenshot 2024-04-07 112534](https://github.com/shreyasjadhav996/Netflix-Analysis/assets/88649937/b816724a-aa66-485a-95b5-81da6823a415)
+
+## NETFLIX ANALYSIS DASHBOARD:
+
+The dashboard shows:
+
+1) The User can search the movies,Tv show and he/she will get rating, duration, genre, release date, added date and Description about it.
+2) The Dashboard will provide interactive interface of list according to user choice of genre.
+3) The Dashboard will show total number of movies and Tv shows released each year.
+4) The Dashboard will top 10 genre and pie chart of sum up of movies and Tv shos released each year.
+
+### DASHBOARD:
+
+![Netflix analysis](https://github.com/shreyasjadhav996/Netflix-Analysis/assets/88649937/8ca9c6d9-67df-44a2-bf22-30c6b29cf790)
 
 
+## DISCLAIMER:
+I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 
