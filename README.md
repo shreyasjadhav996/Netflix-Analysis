@@ -11,8 +11,11 @@
 
 ## STEPS:
 i) Data subset collected from online.
+
 ii) Loading Libraries
+
 iii) Data Cleaning & Finding Missing values
+
 iv) Data Visualization
 
 ## DATA VISUALIZATION:
